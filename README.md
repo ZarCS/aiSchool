@@ -10,11 +10,7 @@ Output: Colorized images (three channels: RGB).
 
 Model Architecture: A convolutional autoencoder consisting of an encoder that compresses the grayscale images into a lower-dimensional representation and a decoder that reconstructs the color images from this representation.
 
-Features
-
 Data Preprocessing: The input images are resized and normalized before being fed into the model.
-
-Model Architecture: The model consists of several convolutional layers followed by max pooling in the encoder and upsampling in the decoder to reconstruct the images.
 
 Training: The model is trained using the Mean Squared Error (MSE) loss function and optimized with the Adam optimizer.
 
