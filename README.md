@@ -16,7 +16,10 @@ Training: The model is trained using the Mean Squared Error (MSE) loss function 
 
 Visualization: After training, the model's predictions are visualized by comparing the original grayscale images, the colorized outputs, and the original color images.
 
-!output
-!output1
-!output2
-!output3
+!images/output.png
+
+!images/output1.png
+
+!images/output2.png
+
+!images/output3.png
