@@ -20,6 +20,6 @@ Visualization: After training, the model's predictions are visualized by compari
 
 ![result2](images/output1.png)
 
-![result3](images/output2.png)
+![result3](images/output5.png)
 
 ![result4](images/output3.png)
