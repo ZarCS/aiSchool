@@ -16,7 +16,7 @@ This project leverages a GAN architecture to create cartoon faces from scratch. 
 
 ### **Model Progress in 30 Epochs**
 
-<img src="generated images/model_progress.gif" alt="Model Progress in 30 Epochs" style="width:100%; max-width:600px;">
+<img src="images/model_progress.gif" alt="Model Progress in 30 Epochs" style="width:100%; max-width:600px;">
 
 ### **Images Created After Each 5 Epochs**
 
