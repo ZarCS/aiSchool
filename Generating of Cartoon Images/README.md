@@ -24,9 +24,9 @@ This project leverages a GAN architecture to create cartoon faces from scratch. 
 ![output2](images/image_2.png)
 ![output3](images/image_3.png)
 ![output4](images/image_4.png)
-![output5](images/output_5.png)
-![output6](images/output_6.png)
-![output7](images/output_7.png)
+![output5](images/image_5.png)
+![output6](images/image_6.png)
+![output7](images/image_7.png)
 
 
 
