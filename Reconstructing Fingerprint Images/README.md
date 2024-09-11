@@ -16,7 +16,7 @@ Autoencoders are particularly well-suited for this task as they can effectively 
 
 ## **Sample Outputs** 
 
-**Reconstructed Fingerprints**
+**Reconstructed**
 ![reconstructed](results/reconstructed.png)
 
 **Ground Truth**
