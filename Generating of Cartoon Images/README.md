@@ -16,30 +16,33 @@ This project leverages a GAN architecture to create cartoon faces from scratch. 
 
 ### **Model Progress in 30 Epochs**
 
-![Model Progress](generated images/model_progress.gif)
+<img src="generated images/model_progress.gif" alt="Model Progress in 30 Epochs" style="width:100%; max-width:600px;">
 
 ### **Images Created After Each 5 Epochs**
 
-**After 5 Epochs**
-
-![After 5 Epochs](images/image_1.png)
-
-**After 10 Epochs**
-
-![After 10 Epochs](images/image_2.png)
-
-**After 15 Epochs**
-
-![After 15 Epochs](images/image_3.png)
-
-**After 20 Epochs**
-
-![After 20 Epochs](images/image_4.png)
-
-**After 25 Epochs**
-
-![After 25 Epochs](images/image_5.png)
-
-**After 30 Epochs**
-
-![After 30 Epochs](images/image_6.png)
+<table>
+  <tr>
+    <td><b>After 5 Epochs</b></td>
+    <td><b>After 10 Epochs</b></td>
+  </tr>
+  <tr>
+    <td><img src="images/image_1.png" alt="After 5 Epochs" style="width:100%; max-width:300px;"></td>
+    <td><img src="images/image_2.png" alt="After 10 Epochs" style="width:100%; max-width:300px;"></td>
+  </tr>
+  <tr>
+    <td><b>After 15 Epochs</b></td>
+    <td><b>After 20 Epochs</b></td>
+  </tr>
+  <tr>
+    <td><img src="images/image_3.png" alt="After 15 Epochs" style="width:100%; max-width:300px;"></td>
+    <td><img src="images/image_4.png" alt="After 20 Epochs" style="width:100%; max-width:300px;"></td>
+  </tr>
+  <tr>
+    <td><b>After 25 Epochs</b></td>
+    <td><b>After 30 Epochs</b></td>
+  </tr>
+  <tr>
+    <td><img src="images/image_5.png" alt="After 25 Epochs" style="width:100%; max-width:300px;"></td>
+    <td><img src="images/image_6.png" alt="After 30 Epochs" style="width:100%; max-width:300px;"></td>
+  </tr>
+</table>
