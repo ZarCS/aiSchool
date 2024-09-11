@@ -20,13 +20,13 @@ This project leverages a GAN architecture to create cartoon faces from scratch. 
 
 ** images created after each 5 epochs seperately**
 
-![generated images](images/image_1.png)
-![generated images](images/image_2.png)
-![generated images](images/image_3.png)
-![generated images](images/image_4.png)
-![generated images](images/output_5.png)
-![generated images](images/output_6.png)
-![generated images](images/output_7.png)
+![output1](generated images/image_1.png)
+![output2](generated images/image_2.png)
+![output3](generated images/image_3.png)
+![output4](generated images/image_4.png)
+![output5](generated images/output_5.png)
+![output6](generated images/output_6.png)
+![output7](generated images/output_7.png)
 
 
 
